@@ -1,15 +1,20 @@
 # Telecom Churn Analysis
 
 # Objetivo
-Analisar padrões de cancelamento de clientes.
 
-## Ferramentas
+Analisar metricas de cancelamento
+
+# Ferramentas
+
 - Python
 - Pandas
 - Seaborn
 - Matplotlib
 
-## Insights
+# Insights
+
 - Contratos mensais possuem maior churn
 - Clientes recentes cancelam mais
 - Mensalidades altas influenciam cancelamento
+
+# Adicionar ao PowerBI (a fazer)
